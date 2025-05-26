@@ -4,7 +4,7 @@ A simple load balancer built in Go using reverse proxy and round-robin routing.
 
 ---
 
-<img width="1920" alt="Screenshot 2025-05-27 at 1 15 53 AM" src="https://github.com/user-attachments/assets/d5a1450b-ff44-4cc4-aecc-c30037e7e863" />
+<img width="1920" alt="Screenshot 2025-05-27 at 1 19 26 AM" src="https://github.com/user-attachments/assets/084c687a-74c6-4003-9be4-7301cb2ecb20" />
 
 
 ---
